@@ -6,9 +6,9 @@
 - Gradle - Libraries implementation
 - JSON + Gson
 - Application Context
+- Signal Manager
 - Vibrations
 - Toasts
-- Signal Manager
 - Glide - Load External Source Images
 - Image Loader
-- Coil ?
+

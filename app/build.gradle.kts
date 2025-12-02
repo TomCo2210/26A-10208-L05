@@ -46,4 +46,11 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+
+    //gson:
+    implementation(libs.gson)
+
+
+    //Glide:
+    implementation (libs.glide)
 }
